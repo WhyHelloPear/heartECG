@@ -13,7 +13,10 @@ part2: https://www.dropbox.com/s/9hrp8myvvr83gow/video_report_part_2.mp4?dl=0
 
 
 
+
+
 References:
+
 https://www.kaggle.com/shayanfazeli/heartbeat
 
 https://arxiv.org/pdf/1805.00794.pdf

@@ -5,9 +5,12 @@ Our project topic covers the analysis of ECG’s (electrocardiogram) of patient 
 
 
 
-Video links:  part1: https://www.dropbox.com/s/sion3hr893j07xv/video_report_part_1.mp4?dl=0
+Video links:  
 
-	            part2: https://www.dropbox.com/s/9hrp8myvvr83gow/video_report_part_2.mp4?dl=0
+part1: https://www.dropbox.com/s/sion3hr893j07xv/video_report_part_1.mp4?dl=0
+
+part2: https://www.dropbox.com/s/9hrp8myvvr83gow/video_report_part_2.mp4?dl=0
+
 
 
 References:
